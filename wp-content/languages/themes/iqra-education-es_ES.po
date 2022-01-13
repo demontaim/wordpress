@@ -1,0 +1,862 @@
+# Translation of Themes - Iqra Education in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Iqra Education package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-30 05:06:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Iqra Education\n"
+
+#. Theme Name of the theme
+#: inc/dashboard/get_started_info.php:118
+msgid "Iqra Education"
+msgstr "Iqra Education"
+
+#. Description of the theme
+msgid "Iqra Education is perfect one for the school, college or university and it is a well suited theme for the training centers as well as LMS learning modules. If you want to open up the educational websites or have the goal of amendments in the high schools or kindergarten, then this WordPress theme is a very suitable optionas it has many options like two coulumn layout, AMP ready, custom-logo, Gutenberg Compatible and much more. Known for its responsive nature as well as the powerful features, the design of a website related to the personal blogging or the coaching classes becomes quite easy with this. Even if you are a starter in the educational field like an institute or university, Iqra Education is a perfect option. It is multipurpose and creative making it perfect for showcasing the achievements of teachers, mentors who are associated with primary schools, Universities, Online Classes, Kindergartens, Daycare, academies, online courses, educator, elementary school, pre-school education, pediatric department, minimal kids school, language school, ballet school, e-learning, Academy, nursery, colleges, institutes, tuition, marketing, workshop, course hub, internship, book selling, High school, summer camps,childcare, day care center, tutor, udemy, training centres, preschool, children art & craft school, academics, secondary schools. This is a modern one and is accompanied with the large header and a clean design. With this Kids education theme, educational activities become easy and because of its ideal design, it is good for various activities related to children. It operates on a bootstrap framework and is known for its quick page speed. Iqra Education also has a secure and clean code. demo: https://themeseye.com/demo/iqra-education-pro/"
+msgstr "Iqra Education es perfecto para escuelas, colegios o universidades y también es un tema adaptable a centros de estudios o módulos de enseñanza LMS. Si quieres preparar webs educativas o renovar sitios de institutos o escuelas infantiles, este tema para WordPress es una buena opción, ya que tiene muchas opciones, como un diseño de dos columnas, preparado para AMP, logotipo personalizado, compatible con Gutenberg y mucho más. Conocido por su naturaleza adaptable, así como por sus potentes características, el diseñar una web o blog personal o para clases de formación se convierte en algo muy sencillo con él. Incluso si eres un principiante en el campo educativo o un instituto o universidad, Iqra Education es una opción perfecta. Es multiuso y creativo, lo que lo hacen perfecto para exponer los logros de los profesores o mentores asociados a escuelas primarias, universidades, educación preescolar, departamentos pediátricos, academias o escuelas secundarias. Es un tema moderno que viene con una amplia cabecera y un diseño limpio. Con este tema de educación infantil, las actividades educativas se vuelven fáciles y, por su buen diseño, es adecuado para varias actividades relacionadas con los niños. Trabaja en un marco de trabajo Bootstrap y es conocido la rapidez de sus páginas. Iqra Education también tiene un código limpio y seguro. Demostración: https://themeseye.com/demo/iqra-education-pro/"
+
+#: inc/customizer.php:930
+msgid "Post Sidebar Layout"
+msgstr "Diseño de la barra lateral de las entradas"
+
+#: inc/customizer.php:936 inc/customizer.php:952
+msgid "Full Column"
+msgstr "Columna completa"
+
+#: inc/customizer.php:947
+msgid "Page Sidebar Layout"
+msgstr "Diseño de la barra lateral de las páginas"
+
+#: inc/customizer.php:450
+msgid "Transparent"
+msgstr "Transparente"
+
+#: inc/customizer.php:447
+msgid "Background Skin Mode"
+msgstr "Modo del estilo del fondo"
+
+#: inc/customizer.php:451
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer.php:1182
+msgid "Navigation Menus Settings"
+msgstr "Ajustes de los menús de navegación"
+
+#: inc/customizer.php:1192
+msgid "Navigation Menus Font Size "
+msgstr "Tamaño de la fuente de los menús de navegación"
+
+#: inc/customizer.php:1208
+msgid "Navigation Menus Text Transform"
+msgstr "Transformación del texto de los menús de navegación"
+
+#: inc/customizer.php:1212
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/customizer.php:1222
+msgid "Navigation Menus Font Weight"
+msgstr "Grosor de la fuente de los menús de navegación"
+
+#: inc/customizer.php:1226
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/logo/logo-resizer.php:50
+msgid "Logo Site Title Font Size"
+msgstr "Tamaño de la fuente del título del logotipo del sitio"
+
+#: inc/customizer.php:1662
+msgid "Image and Content"
+msgstr "Imagen y contenido"
+
+#: inc/customizer.php:1657
+msgid "Post Layout Option"
+msgstr "Opción de diseño de la entrada"
+
+#: inc/customizer.php:652 inc/customizer.php:907
+msgid "Button Border Radius"
+msgstr "Radio del borde del botón"
+
+#: inc/customizer.php:892
+msgid "Left and Right Padding"
+msgstr "Relleno izquierdo y derecho"
+
+#: inc/customizer.php:877
+msgid "Top and Bottom Padding "
+msgstr "Relleno superior e inferior"
+
+#: functions.php:402
+msgid "https://www.themeseye.com/demo/iqra-education-pro/"
+msgstr "https://www.themeseye.com/demo/iqra-education-pro/"
+
+#: functions.php:403
+msgid "https://www.themeseye.com/wordpress/education-wordpress-theme/"
+msgstr "https://www.themeseye.com/wordpress/education-wordpress-theme/"
+
+#: functions.php:404
+msgid "https://www.themeseye.com/theme-demo/docs/iqra-education-pro/"
+msgstr "https://www.themeseye.com/theme-demo/docs/iqra-education-pro/"
+
+#: functions.php:405
+msgid "https://www.themeseye.com/theme-demo/docs/free-iqra-education/"
+msgstr "https://www.themeseye.com/theme-demo/docs/free-iqra-education/"
+
+#: functions.php:406
+msgid "https://www.themeseye.com/forums/forum/themeseye-support/"
+msgstr "https://www.themeseye.com/forums/forum/themeseye-support/"
+
+#: functions.php:407
+msgid "https://wordpress.org/support/theme/iqra-education/"
+msgstr "https://wordpress.org/support/theme/iqra-education/"
+
+#: inc/customizer.php:1902
+msgid "Four"
+msgstr "Cuatro"
+
+#: inc/customizer.php:1901
+msgid "Three"
+msgstr "Tres"
+
+#: inc/customizer.php:1900
+msgid "Two"
+msgstr "Dos"
+
+#: inc/customizer.php:1899
+msgid "One"
+msgstr "Uno"
+
+#: inc/customizer.php:1897
+msgid "Select the number of footer widget areas and after that, go to Appearance > Widgets and add your widgets in the footer."
+msgstr "Selecciona el número áreas de widgets en el pie de página y, después, ve a «Apariencia > Widgets» y añade tus widgets al pie de página."
+
+#: inc/customizer.php:1895
+msgid "No. of Footer widget area"
+msgstr "Número de áreas de widgets del pie de pagina"
+
+#: inc/customizer.php:1884
+msgid "Footer Section"
+msgstr "Sección del pie de página"
+
+#: inc/customizer.php:970
+msgid "Show / Hide Top Header"
+msgstr "Mostrar / ocultar la cabecera superior"
+
+#: inc/customizer.php:1700
+msgid "Excerpt length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer.php:1601
+msgid "Post Author"
+msgstr "Autor de la entrada"
+
+#: inc/customizer.php:1623
+msgid "Post Comments"
+msgstr "Publicar comentarios"
+
+#: inc/customizer.php:1727
+msgid "Add Button Text"
+msgstr "Añadir el texto del botón"
+
+#: inc/customizer.php:1579
+msgid "Post Date"
+msgstr "Fecha de publicación"
+
+#: inc/customizer.php:1569 inc/dashboard/get_started_info.php:104
+msgid "Post Settings"
+msgstr "Ajustes de la entrada"
+
+#: inc/customizer.php:671 inc/customizer.php:1327
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:1325 inc/customizer.php:1661
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer.php:1322
+msgid "Slider Content Layout"
+msgstr "Diseño del contenido del carrusel"
+
+#: inc/customizer.php:672 inc/customizer.php:1326
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:1364
+msgid "Slider Image Opacity"
+msgstr "Opacidad de las imágenes del carrusel"
+
+#: inc/customizer.php:1347
+msgid "Slider Excerpt length"
+msgstr "Longitud del extracto del slider"
+
+#: template-parts/post/single-post.php:23
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer.php:1958
+msgid "Center align"
+msgstr "Alinear al centro"
+
+#: inc/customizer.php:1956
+msgid "Left align"
+msgstr "Alinear a la izquierda"
+
+#: inc/customizer.php:1957
+msgid "Right align"
+msgstr "Alinear a la derecha"
+
+#: template-parts/footer/site-info.php:10
+#: template-parts/footer/site-info.php:12
+#: template-parts/footer/site-info.php:14
+msgid "Scroll Up"
+msgstr "Scroll hacia arriba"
+
+#: inc/customizer.php:1953
+msgid "Here you can change the Footer layout. "
+msgstr "Aquí puedes cambiar el diseño del pie de página."
+
+#: inc/customizer.php:1952
+msgid "Scroll To Top"
+msgstr "Scroll al inicio"
+
+#: inc/customizer.php:862
+msgid "Box Layout"
+msgstr "Diseño de caja"
+
+#: inc/customizer.php:861
+msgid "Wide Layout"
+msgstr "Diseño ancho"
+
+#: inc/customizer.php:1930
+msgid "Show / Hide Scroll To Top"
+msgstr "Mostrar / ocultar «Scroll al inicio»"
+
+#: inc/customizer.php:857
+msgid "Here you can change the Width layout. "
+msgstr "Aquí puedes cambiar la anchura del diseño."
+
+#: inc/customizer.php:856
+msgid "Container Box"
+msgstr "Caja del contenedor"
+
+#: inc/customizer.php:824 inc/customizer.php:860 inc/customizer.php:1211
+#: inc/customizer.php:1225 inc/customizer.php:1660 inc/customizer.php:1751
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer.php:752
+msgid "Layout Settings"
+msgstr "Ajustes del diseño"
+
+#: header.php:109
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: header.php:106
+msgid "Youtube"
+msgstr "YouTube"
+
+#: header.php:103
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:100
+msgid "Facebook"
+msgstr "Facebook"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search"
+msgstr "Buscar"
+
+#: header.php:48
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/customizer.php:434
+msgid "h6 Font Size"
+msgstr "Tamaño de la fuente h6"
+
+#: inc/customizer.php:423
+msgid "h6 Fonts"
+msgstr "Fuentes h6"
+
+#: inc/customizer.php:409
+msgid "h6 Color"
+msgstr "Color de h6"
+
+#: inc/customizer.php:397
+msgid "h5 Font Size"
+msgstr "Tamaño de la fuente h5"
+
+#: inc/customizer.php:386
+msgid "h5 Fonts"
+msgstr "Fuentes h5"
+
+#: inc/customizer.php:372
+msgid "h5 Color"
+msgstr "Color de h5"
+
+#: inc/customizer.php:360
+msgid "h4 Font Size"
+msgstr "Tamaño de la fuente h4"
+
+#: inc/customizer.php:349
+msgid "h4 Fonts"
+msgstr "Fuentes h4"
+
+#: inc/customizer.php:335
+msgid "h4 Color"
+msgstr "Color de h4"
+
+#: inc/customizer.php:323
+msgid "h3 Font Size"
+msgstr "Tamaño de la fuente h3"
+
+#: inc/customizer.php:312
+msgid "h3 Fonts"
+msgstr "Fuentes h3"
+
+#: inc/customizer.php:298
+msgid "h3 Color"
+msgstr "Color de h3"
+
+#: inc/customizer.php:286
+msgid "h2 Font Size"
+msgstr "Tamaño de la fuente h2"
+
+#: inc/customizer.php:275
+msgid "h2 Fonts"
+msgstr "Fuentes h2"
+
+#: inc/customizer.php:261
+msgid "h2 Color"
+msgstr "Color de h2"
+
+#: inc/customizer.php:249
+msgid "H1 Font Size"
+msgstr "Tamaño de la fuente H1"
+
+#: inc/customizer.php:238
+msgid "H1 Fonts"
+msgstr "Fuentes H1"
+
+#: inc/customizer.php:224
+msgid "H1 Color"
+msgstr "Color de H1"
+
+#: inc/customizer.php:213
+msgid "\"li\" Tag Fonts"
+msgstr "Fuentes de etiqueta «li»"
+
+#: inc/customizer.php:199
+msgid "\"li\" Tag Color"
+msgstr "Color de la etiqueta «li»"
+
+#: inc/customizer.php:188
+msgid "\"a\" Tag Fonts"
+msgstr "Fuentes de la etiqueta «a»"
+
+#: inc/customizer.php:174
+msgid "\"a\" Tag Color"
+msgstr "Color de la etiqueta «a»"
+
+#: inc/customizer.php:162
+msgid "Paragraph Font Size"
+msgstr "Tamaño de la fuente del párrafo"
+
+#: inc/customizer.php:152
+msgid "Paragraph Fonts"
+msgstr "Fuentes del párrafo"
+
+#: inc/customizer.php:138
+msgid "Paragraph Color"
+msgstr "Color del párrafo"
+
+#: inc/customizer.php:128
+msgid "Color / Fonts Settings"
+msgstr "Ajustes de color / fuentes"
+
+#: inc/customizer.php:458
+msgid "Theme Color Option"
+msgstr "Opción de color del tema"
+
+#: inc/customizer.php:467 inc/customizer.php:478
+msgid "One can change complete theme color on just one click."
+msgstr "Se puede cambiar todo el color del tema con solo un clic."
+
+#: inc/dashboard/get_started_info.php:137
+msgid "Education WordPress theme is special and with proper utilization, you can craft an education website that is multipurpose to the core. It is also accompanied with a fresh demo that is exclusive for the websites related to education. You have the choice to launch a page for school or university or some online courses or any other learning page that was quite difficult for you earlier. It is very good when it comes to the refining of web design and there is no need of a skilled programmer with the knowledge of coding. Education WordPress theme also suits well for the different levels of education like elementary, middle or high school and it makes use of the drag and drop visual composer that is fused with the MegaMenu. It also contains the special plugins for various events apart from the layout options and galleries. Contact form 7 and revolution slider is also included."
+msgstr "El tema Educación para WordPress es especial y, con la utilización adecuada, puedes crear una web educativa multipropósito hasta su núcleo. También se acompaña con una demostración exclusiva para webs relacionadas con la educación. Tienes la opción de crear una página para una escuela o universidad o para cursos en línea o cualquier otra página de aprendizaje de una forma muy sencilla. Es muy bueno cuando se trata de refinar el diseño web y no hay necesidad de un programador experto con conocimientos de código. El tema Educación para WordPress también se adapta a los diferentes niveles de educación, como primaria, secundaria o educación superior y utiliza el diseñador visual de arrastrar y soltar, que funciona con MegaMenu. También tiene plugins especiales para varios eventos, además de las opciones de diseño y galerías. Contact Form 7 y Revolution Slider también están incluídos."
+
+#: inc/dashboard/get_started_info.php:181
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/dashboard/get_started_info.php:176
+msgid "Premium Theme Support"
+msgstr "Soporte del tema Premium"
+
+#: inc/dashboard/get_started_info.php:175
+msgid "Free Theme Support"
+msgstr "Soporte del tema gratuito"
+
+#: inc/dashboard/get_started_info.php:173
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: inc/dashboard/get_started_info.php:163
+msgid "WooCommerce Integration"
+msgstr "Integración de WooCommerce"
+
+#: inc/dashboard/get_started_info.php:162
+msgid "Custom Page Templates "
+msgstr "Plantillas de páginas personalizadas"
+
+#: inc/dashboard/get_started_info.php:160
+msgid "Fully Responsive "
+msgstr "Completamente adaptable"
+
+#: inc/dashboard/get_started_info.php:159
+msgid "Simple To Install"
+msgstr "Simple de instalar"
+
+#: inc/dashboard/get_started_info.php:158
+msgid "Eye Appealing Design"
+msgstr "Diseño atractivo a la vista"
+
+#: inc/dashboard/get_started_info.php:157
+msgid "Incredible Support"
+msgstr "Increíble soporte"
+
+#: inc/dashboard/get_started_info.php:156
+msgid "Social Media Integration"
+msgstr "Integración de redes sociales"
+
+#: inc/dashboard/get_started_info.php:155
+msgid "Plugin Compatible"
+msgstr "Compatible con plugins"
+
+#: inc/dashboard/get_started_info.php:154
+msgid "Unlimited Color Option"
+msgstr "Opción de color ilimitada"
+
+#: inc/dashboard/get_started_info.php:153
+msgid "Documention"
+msgstr "Documentación"
+
+#: inc/dashboard/get_started_info.php:152
+msgid "Theme customizer "
+msgstr "Personalizador del tema"
+
+#: inc/dashboard/get_started_info.php:151
+msgid "Customizable Colors"
+msgstr "Colores personalizables"
+
+#: inc/dashboard/get_started_info.php:150
+msgid "Google Font Integration"
+msgstr "Integración de fuentes de Google"
+
+#: inc/dashboard/get_started_info.php:149
+msgid "Multiple page templates"
+msgstr "Múltiples plantillas de página"
+
+#: inc/dashboard/get_started_info.php:148
+msgid "FREE Shortcodes"
+msgstr "Shortcodes gratis"
+
+#: inc/dashboard/get_started_info.php:147
+msgid "Premium Technical Support"
+msgstr "Soporte técnico premium"
+
+#: inc/dashboard/get_started_info.php:146
+msgid "Multiplue Domain Usage"
+msgstr "Uso de dominios múltiples"
+
+#: inc/dashboard/get_started_info.php:142
+msgid "Pro Theme Features"
+msgstr "Características del tema pro"
+
+#: inc/dashboard/get_started_info.php:136
+msgid "Pro Theme Description"
+msgstr "Descripción del tema pro"
+
+#: inc/dashboard/get_started_info.php:133
+msgid "Pro Documentation"
+msgstr "Documentación pro"
+
+#: inc/dashboard/get_started_info.php:118
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/dashboard/get_started_info.php:117
+#: inc/dashboard/get_started_info.php:183
+msgid "Customizing"
+msgstr "Personalización"
+
+#: inc/dashboard/get_started_info.php:117
+#: inc/dashboard/get_started_info.php:183
+msgid "Start"
+msgstr "Inicio"
+
+#: inc/dashboard/get_started_info.php:46
+msgid "Theme created by ThemesEye"
+msgstr "Tema creado por ThemesEye"
+
+#: inc/dashboard/get_started_info.php:42
+msgid "Welcome to Iqra Education Theme"
+msgstr "Bienvenido al tema Iqra Education"
+
+#: inc/dashboard/get_started_info.php:21
+msgid "Get Started "
+msgstr "Primeros pasos"
+
+#: inc/dashboard/get_started_info.php:5
+msgid "About Theme"
+msgstr "Sobre el tema"
+
+#: template-parts/footer/site-info.php:18
+msgid "By ThemesEye"
+msgstr "Por ThemesEye"
+
+#: inc/dashboard/get_started_info.php:187
+msgid "Buy Premium"
+msgstr "Comprar la versión Premium"
+
+#: inc/dashboard/get_started_info.php:161
+msgid "Translation Ready"
+msgstr "Preparado para traducir"
+
+#: inc/dashboard/get_started_info.php:145
+msgid "Easy install 10 minute setup Themes"
+msgstr "Temas de fácil instalación y configuración en 10 minutos"
+
+#: inc/dashboard/get_started_info.php:132
+#: inc/dashboard/get_started_info.php:189
+msgid "Buy Pro"
+msgstr "Comprar la versión Pro"
+
+#: inc/dashboard/get_started_info.php:131
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: inc/dashboard/get_started_info.php:126
+msgid "2.) Premium Theme Information."
+msgstr "2.) Información sobre el tema premium."
+
+#: inc/dashboard/get_started_info.php:117
+#: inc/dashboard/get_started_info.php:183
+msgid "your website."
+msgstr "tu web."
+
+#: inc/dashboard/get_started_info.php:61
+msgid "1). Iqra Education Lite Theme"
+msgstr "1.) Tema Iqra Education Lite"
+
+#: inc/dashboard/get_started_info.php:20
+msgid "Please Click on the link below to know the theme setup information"
+msgstr "Por favor, haz clic en el enlace de abajo para conocer la información de configuración del tema"
+
+#: functions.php:414
+msgid "Education WordPress Theme "
+msgstr "Tema Education para WordPress"
+
+#: template-parts/footer/site-info.php:19
+msgid "Powered By WordPress"
+msgstr "Funciona con WordPress"
+
+#: inc/dashboard/get_started_info.php:19
+msgid "Thanks for installing Iqra Education Theme"
+msgstr "Gracias por instalar el tema Iqra Education"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#. Template Name of the theme
+msgid "Page with Right Sidebar"
+msgstr "Página con barra lateral derecha"
+
+#: page-template/home-custom.php:101
+msgid "Know About Us"
+msgstr "Más sobre nosotros"
+
+#. Template Name of the theme
+msgid "Home Custom Page"
+msgstr "Página de inicio personalizada"
+
+#. Template Name of the theme
+msgid "Page with Left Sidebar"
+msgstr "Página con barra lateral izquierda"
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes estar conectado para para poder finalizar la compra."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/customizer.php:2190
+msgid "Go Pro"
+msgstr "Ir a la versión Pro"
+
+#: inc/customizer.php:2189
+msgid "Iqra Education Pro"
+msgstr "Iqra Education Pro"
+
+#: inc/customizer.php:1443
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer.php:1232
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: inc/customizer.php:937
+msgid "Grid Layout"
+msgstr "Diseño en cuadrícula"
+
+#: inc/customizer.php:934 inc/customizer.php:950
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer.php:28
+msgid "Description of what this panel does."
+msgstr "Descripción de lo que hace este panel."
+
+#: inc/customizer.php:27
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/customizer.php:1476 search.php:37 search.php:63 search.php:92
+#: search.php:119 search.php:149
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: inc/customizer.php:1466 search.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/customizer.php:1332 inc/customizer.php:1723
+msgid "READ MORE"
+msgstr "LEER MÁS"
+
+#: template-parts/navigation/navigation-top.php:36
+msgid "Login / Register"
+msgstr "Acceder / Registro"
+
+#: template-parts/navigation/navigation-top.php:13
+msgid "Menu"
+msgstr "Menú"
+
+#: page-template/home-custom.php:65 single.php:39 single.php:69 single.php:102
+#: single.php:131 single.php:164
+msgid "Next"
+msgstr "Siguiente"
+
+#: page-template/home-custom.php:61 single.php:38 single.php:68 single.php:101
+#: single.php:130 single.php:163
+msgid "Previous"
+msgstr "Anterior"
+
+#: single.php:38 single.php:68 single.php:101 single.php:130 single.php:163
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: single.php:33 single.php:63 single.php:96 single.php:125 single.php:158
+msgid "Page"
+msgstr "Página"
+
+#: single.php:29 single.php:59 single.php:92 single.php:121 single.php:154
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: archive.php:19 inc/customizer.php:935 inc/customizer.php:951 index.php:10
+#: search.php:19 single.php:11
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quieres probar una búsqueda?"
+
+#: functions.php:322
+msgid "Collapse child menu"
+msgstr "Contraer submenú"
+
+#: functions.php:321
+msgid "Expand child menu"
+msgstr "Expandir submenú"
+
+#: functions.php:196
+msgid "Footer "
+msgstr "Pie de página "
+
+#: functions.php:183
+msgid "Page Sidebar"
+msgstr "Barra lateral de la página"
+
+#: functions.php:173 sidebar.php:7
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:22 template-parts/navigation/navigation-top.php:10
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: functions.php:175
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral en las entradas del blog y en las páginas de archivo."
+
+#: functions.php:185
+msgid "Add widgets here to appear in your sidebar on Pages and archive pages."
+msgstr "Añade widgets aquí para que se vean en tu barra lateral en las páginas y en las páginas de archivo."
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: single.php:39 single.php:69 single.php:102 single.php:131 single.php:164
+msgid "Next Post"
+msgstr "Entrada siguiente"
+
+#: template-parts/post/content-audio.php:48
+#: template-parts/post/content-gallery.php:37
+#: template-parts/post/content-image.php:30
+#: template-parts/post/content-image.php:65
+#: template-parts/post/content-video.php:48 template-parts/post/content.php:30
+#: template-parts/post/content.php:65 template-parts/post/gridlayout.php:29
+#: template-parts/post/single-post.php:34
+msgid "0 Comments"
+msgstr "0 comentarios"
+
+#: template-parts/post/content-audio.php:48
+#: template-parts/post/content-gallery.php:37
+#: template-parts/post/content-image.php:30
+#: template-parts/post/content-image.php:65
+#: template-parts/post/content-video.php:48 template-parts/post/content.php:30
+#: template-parts/post/content.php:65 template-parts/post/gridlayout.php:29
+#: template-parts/post/single-post.php:34
+msgid "% Comments"
+msgstr "% comentarios"
+
+#. translators: %s: search term
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/customizer.php:919
+msgid "Sidebar Settings"
+msgstr "Ajustes de la barra lateral"
+
+#: inc/customizer.php:932
+msgid "This option work for blog page, blog single page, archive page and search page."
+msgstr "Esta opción sirve para la página del blog, las páginas individuales del blog, las páginas de archivo y la página de búsqueda."
+
+#: inc/customizer.php:958
+msgid "Topbar Section"
+msgstr "Sección de la barra superior"
+
+#: inc/customizer.php:959
+msgid "Add Header Content here"
+msgstr "Añade aquí el contenido de la cabecera"
+
+#: inc/customizer.php:979
+msgid "Add Phone Number"
+msgstr "Añadir el número de teléfono"
+
+#: inc/customizer.php:1002
+msgid "Add Email"
+msgstr "Añadir el correo electrónico"
+
+#: inc/customizer.php:1025
+msgid "Add Time"
+msgstr "Añadir el horario"
+
+#: inc/customizer.php:1048
+msgid "Add Facebook link"
+msgstr "Añadir el enlace a Facebook"
+
+#: inc/customizer.php:1071
+msgid "Add Twitter link"
+msgstr "Añadir el enlace a Twitter"
+
+#: inc/customizer.php:1094
+msgid "Add Youtube link"
+msgstr "Añadir el enlace a YouTube"
+
+#: inc/customizer.php:1117
+msgid "Add Linkedin link"
+msgstr "Añadir el enlace a LinkedIn"
+
+#: inc/customizer.php:1163
+msgid "Add Login Button URL"
+msgstr "Añadir la URL del botón de acceso"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:29
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:24
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a «%s»"
+
+#: inc/customizer.php:2027
+msgid "Add Copyright Text"
+msgstr "Añadir el texto del copyright"
+
+#: inc/customizer.php:1454
+msgid "Select About Page"
+msgstr "Seleccionar la página «Acerca de»"
+
+#: inc/customizer.php:1434
+msgid "Add About Us Section below."
+msgstr "Añade a continuación la sección «Acerca de»."
+
+#: inc/customizer.php:1433
+msgid "About Us"
+msgstr "Acerca de"
+
+#: inc/customizer.php:1243
+msgid "Show / Hide slider"
+msgstr "Mostrar/ocultar el carrusel"
+
+#: inc/customizer.php:1284
+msgid "Select Slide Image Page"
+msgstr "Selecciona la página de la imagen de la diapositiva"
+
+#. Author URI of the theme
+msgid "https://www.themeseye.com/"
+msgstr "https://www.themeseye.com/"
+
+#. Author of the theme
+msgid "ThemesEye"
+msgstr "ThemesEye"
+
+#. Theme URI of the theme
+#: functions.php:410
+msgid "https://www.themeseye.com/wordpress/free-education-wordpress-theme/"
+msgstr "https://www.themeseye.com/wordpress/free-education-wordpress-theme/"
